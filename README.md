@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @keshavj029
 - 👀 I’m interested in Machine learning
 - 🌱 I’m currently learning ML and data structures
-- 💞️ I’m looking to collaborate on ML projects which would be a good fit for a beginner
+- 💞️ I’m looking to collaborate on projects related to machine learning and deep learning.
 - 📫 How to reach me, my gmail id is keshavj215@gmail.com
 
 <!---
